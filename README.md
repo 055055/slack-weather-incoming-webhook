@@ -1,8 +1,15 @@
 # slack-weather-incoming-webhook
 
-slack-incoming-webgooking 
+slack-incoming-webhooking 
 
-just notice someplace weather
+just notice someplace's weather
+
+- Temperature
+- Pressure
+- Humidity
+- Highest Temperature
+- Lowest Temperature
+
 ``` 
 java8, maven , springboot, scheduled,openweathermap
 
